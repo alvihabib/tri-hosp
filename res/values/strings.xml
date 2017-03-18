@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hospital Triage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_screen_patient">Patient</string>
+    <string name="title_activity_screen_condition">Add New Condition</string>
+    <string name="title_activity_screen_list_patients">List of Patients</string>
+    <string name="title_activity_screen_list_conditions">Patient History</string>
+    <string name="title_activity_screen_new_patient">Add New Patient</string>
+    <string name="title_activity_screen_login">Login</string>
+    <string name="title_activity_screen_about">About</string>
+    <string name="title_activity_splash_screen">Hospital Triage</string>
+    <string name="title_activity_screen_prescription">Prescription</string>
+    <string name="birthday_date">Patient Birthday</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="temperature">Temperature</string>
+    <string name="change_date">Change Date</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="description_symptoms">Description of Symptoms</string>
+    <string name="celsius">Celsius</string>
+    <string name="systolic">Systolic</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="date_label">Date and Time</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="date">08-08-1987</string>
+    <string name="new_condition">New Condition</string>
+    <string name="search_patient">Search Patient</string>
+    <string name="order_by_urgency">Urgency</string>
+    <string name="order_by_time">Time of Arrival</string>
+    <string name="list_of_patients">List of Patients</string>
+    <string name="patient_history">Patient History</string>
+    <string name="health_card_number">Health Card Number</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="seen_by_doctor">Seen By Doctor?</string>
+    <string name="message_error_blank_field">Blank fields not permitted</string>
+    <string name="new_patient">New Patient</string>
+    <string name="type_health_card_number">Type patient\'s health card number</string>
+    <string name="patient_not_found">Patient not Found</string>
+    <string name="load_data">Load Data</string>
+    <string name="warning">Warning</string>
+    <string name="message_data_loss">Unsaved data will be lost. Do you want to continue?</string>
+    <string name="message_logout">Do you want to logout the system? All unsaved data will be lost.</string>
+    <string name="save_data">Save Data</string>
+    <string name="rights_copy">All rights reserved</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="message_login_error">Username or password incorrect</string>
+    <string name="logout">Logout</string>
+    <string name="error_patient_not_found">Patient Not Found</string>
+    <string name="prescription">New Prescription</string>
+    <string name="medication">Medication</string>
+    <string name="instruction">Instructions</string>
+    <string name="description_medication">Prescribe the medication for the patient</string>
+    <string name="description_instruction">Describe instructions for all medicines</string>
+    <string name="conditions">Conditions</string>
+    <string name="prescriptions">Prescriptions</string>
+
+    <color name="text_black">#000000</color>
+    <color name="text_white">#ffffff</color>
+    <color name="color_background_1">#fe5e3a</color>
+    <color name="color_background_2">#ff2a68</color>
+    <color name="color_background_3">#242527</color>
+    <color name="color_background_4">#27282a</color>
+
+    <string name="version">Version 1.1.2</string>
+    <string name="creation">Creative Team</string>
+    <string name="deivid_c">Deivid Cavalcante</string>
+    <string name="jon_k">Jon Ke</string>
+    <string name="alvi_h">Alvi Habib</string>
+    <string name="tarang_m">Tarang Marathe</string>
+    
+
+</resources>
